@@ -1,0 +1,2 @@
+Hola mundo, este es un archivo de prueba.
+La cadena que buscamos podría estar aquí.
